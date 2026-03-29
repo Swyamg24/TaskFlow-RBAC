@@ -49,10 +49,6 @@ cd frontend && npm install && npm start
 - **Modular routers** → add new features (products, notes) without touching existing code
 - **Next steps**: Alembic for DB migrations, Docker + docker-compose, Redis caching, Nginx load balancer
 
-## 📸 API Documentation (Swagger UI)
-
-![Swagger UI](screenshots/Screenshot 2026-03-29 163255.png)
-
 ## 📬 API Testing (Postman Collection)
 
 You can test all API endpoints using the Postman collection:
