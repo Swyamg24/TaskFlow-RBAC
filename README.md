@@ -52,3 +52,9 @@ cd frontend && npm install && npm start
 ## 📸 API Documentation (Swagger UI)
 
 ![Swagger UI](screenshots/Screenshot 2026-03-29 163255.png)
+
+## 📬 API Testing (Postman Collection)
+
+You can test all API endpoints using the Postman collection:
+
+👉 [Download Postman Collection](./docs/TaskFlow API Collection.postman_collection.json)
