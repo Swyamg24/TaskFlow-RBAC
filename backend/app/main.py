@@ -34,3 +34,7 @@ app.include_router(tasks.router)
 @app.get("/health", tags=["Health"])
 def health_check():
     return {"status": "ok", "version": "1.0.0"}
+
+@app.get("/")
+def root():
+    return {"message": "API is running 🚀"}
